@@ -1,0 +1,6 @@
+version: 3.8
+services:
+  palala:
+    image: aelgdocker/palala-back
+    ports:
+      - "80:8000"

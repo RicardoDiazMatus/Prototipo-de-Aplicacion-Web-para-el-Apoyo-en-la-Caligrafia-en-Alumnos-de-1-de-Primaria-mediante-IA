@@ -1,0 +1,140 @@
+{
+    "calificacion": 1.0588713682143975,
+    "resultados": [
+        {
+            "etiqueta": "a",
+            "calificacion": 8.663130670785904,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "b",
+            "calificacion": 2.3841855067985307e-07,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "c",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "d",
+            "calificacion": 2.8490614567999728e-05,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "e",
+            "calificacion": 0.0020227227360010147,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "f",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "g",
+            "calificacion": 10.018911331892014,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "h",
+            "calificacion": 0.018084635958075523,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "i",
+            "calificacion": 8.427741704508662e-05,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "j",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "k",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "l",
+            "calificacion": 0.00042060110718011856,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "m",
+            "calificacion": 0.03775481879711151,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "n",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "\u00f1",
+            "calificacion": 0.00022980909852776676,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "o",
+            "calificacion": 0.02127457782626152,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "p",
+            "calificacion": 4.6491513785440475e-06,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "q",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "r",
+            "calificacion": 2.3841855067985307e-07,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "s",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "t",
+            "calificacion": 6.329813186312094e-05,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "u",
+            "calificacion": 9.817285597324371,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "v",
+            "calificacion": 0.00983535498380661,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "w",
+            "calificacion": 0.00013493580627255142,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "x",
+            "calificacion": 2.407998726994265e-05,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "y",
+            "calificacion": 0.0001740304142003879,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "z",
+            "calificacion": 6.258291978156194e-05,
+            "prediccion": true
+        }
+    ]
+}

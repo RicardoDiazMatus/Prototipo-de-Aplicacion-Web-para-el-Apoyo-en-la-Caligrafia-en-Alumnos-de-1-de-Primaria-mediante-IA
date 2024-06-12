@@ -1,0 +1,140 @@
+{
+    "calificacion": 4.827990170179216,
+    "resultados": [
+        {
+            "etiqueta": "A",
+            "calificacion": 0.0005339150666259229,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "B",
+            "calificacion": 1.0967194612021558e-05,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "C",
+            "calificacion": 4.283856466412544,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "D",
+            "calificacion": 13.959816813468933,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "E",
+            "calificacion": 9.680699110031128,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "F",
+            "calificacion": 0.9893118739128113,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "G",
+            "calificacion": 7.791384167969227,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "H",
+            "calificacion": 10.857050836086273,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "I",
+            "calificacion": 9.376101046800613,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "J",
+            "calificacion": 0.001869836589321494,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "K",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "L",
+            "calificacion": 0.00039450492477044463,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "M",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "N",
+            "calificacion": 2.47952248173533e-05,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "\u00d1",
+            "calificacion": 6.826864242553711,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "O",
+            "calificacion": 6.580670416355133,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "P",
+            "calificacion": 10.566164016723633,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "Q",
+            "calificacion": 6.851253271102905,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "R",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "S",
+            "calificacion": 8.257602661848068,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "T",
+            "calificacion": 9.10688304901123,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "U",
+            "calificacion": 3.933898824470816e-06,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "V",
+            "calificacion": 7.823495775461197,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "W",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "X",
+            "calificacion": 6.156534731388092,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "Y",
+            "calificacion": 11.211036920547485,
+            "prediccion": false
+        },
+        {
+            "etiqueta": "Z",
+            "calificacion": 0.03417124226689339,
+            "prediccion": true
+        }
+    ]
+}

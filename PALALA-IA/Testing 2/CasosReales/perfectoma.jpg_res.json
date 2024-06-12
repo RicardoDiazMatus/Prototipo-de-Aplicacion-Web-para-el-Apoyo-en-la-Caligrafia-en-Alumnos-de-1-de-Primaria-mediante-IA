@@ -1,0 +1,140 @@
+{
+    "calificacion": 3.973640879714232e-08,
+    "resultados": [
+        {
+            "etiqueta": "A",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "B",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "C",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "D",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "E",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "F",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "G",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "H",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "I",
+            "calificacion": 1.0728830375228426e-06,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "J",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "K",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "L",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "M",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "N",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "\u00d1",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "O",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "P",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "Q",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "R",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "S",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "T",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "U",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "V",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "W",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "X",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "Y",
+            "calificacion": 0.0,
+            "prediccion": true
+        },
+        {
+            "etiqueta": "Z",
+            "calificacion": 0.0,
+            "prediccion": true
+        }
+    ]
+}
